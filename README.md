@@ -17,16 +17,8 @@ CppHttpServer
 
 项目结构
 
-CppHttpServer/
-├── httpdocs/            
-│   ├── post.html         
-│   └── post.cgi          
-├── image/
-│   └── result.png        
-├── httpd.cpp           
-├── Makefile            
-├── .gitignore
-└── README.md
+<img width="1146" height="1372" alt="image" src="https://github.com/user-attachments/assets/374d2631-8f80-4756-8696-fb6d3f2133d9" />
+
 
 技术栈
 C++
