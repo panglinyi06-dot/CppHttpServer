@@ -15,10 +15,6 @@ CppHttpServer
 支持基础错误处理（404 Not Found）
 使用 Makefile 管理项目编译
 
-项目结构
-
-<img width="1146" height="1372" alt="image" src="https://github.com/user-attachments/assets/374d2631-8f80-4756-8696-fb6d3f2133d9" />
-
 
 技术栈
 C++
